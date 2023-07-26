@@ -109,7 +109,7 @@ footer {
   line-height: 17px;
   margin: 15px 0px;
 }
-@media only screen and (min-width:375px) and (max-width:600px) {
+@media only screen and (min-width:375px) and (max-width:700px) {
   body {
     align-items: center;
     width: 100%;
